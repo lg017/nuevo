@@ -24,11 +24,7 @@ st.write(
          ' El hijo de rana, Rinrín renacuajo Salió esta mañana muy tieso y muy majo,  Con pantalón corto, corbata a la moda Sombrero encintado y chupa de boda. ' 
          ' -¡Muchacho, no salgas!- le grita mamá, pero él hace un gesto y orondo se va.'  
          ' Halló en el camino, a un ratón vecino Y le dijo: -¡amigo!- venga usted conmigo, Visitemos juntos a doña ratona Y habrá francachela y habrá comilona.' 
-         ' A poco llegaron, y avanza ratón, Estírase el cuello, coge el aldabón,'
-        'Da dos o tres golpes, preguntan: ¿quién es? -Yo doña ratona, beso a usted los pies ¿Está usted en casa? -Sí señor sí estoy,'
-      ' y celebro mucho ver a ustedes hoy; estaba en mi oficio, hilando algodón, pero eso no importa; bienvenidos son.'
-    
-            ' -Rafael Pombo.'
+        
          ' -Rafael Pombo.'
         
         )
