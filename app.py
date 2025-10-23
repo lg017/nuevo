@@ -21,7 +21,7 @@ except:
 
 st.subheader("Un fragmento de una fábula muy conocida.")
 st.write(
-         ' Corría y corría y por cierto que me alegraba ver esos muros, a diestra y siniestra, en la distancia. ' 
+         ' El hijo de rana, Rinrín renacuajo Salió esta mañana muy tieso y muy majo Con pantalón corto, corbata a la moda Sombrero encintado y chupa de boda. ' 
          ' Pero esas paredes se estrechan tan rápido que me encuentro en el último cuarto y ahí en el rincón está '  
          ' la trampa sobre la cual debo pasar. Todo lo que debes hacer es cambiar de rumbo dijo el gato...y se lo comió. ' 
          '  '
